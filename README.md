@@ -1,6 +1,8 @@
 ## Dataset
 The dataset consists of images categorized into four classes and is divided into training, validation, and testing sets.  
-**Dataset Source:** [Link to Dataset](https://universe.roboflow.com/roboflow-universe-projects/banana-ripeness-classification/dataset/4)  
+**Dataset Source:** [Link to Dataset](https://universe.roboflow.com/roboflow-universe-projects/banana-ripeness-classification/dataset/4) 
+
+Download the dataset from the link above and extract it into the `dataset/` directory.
 
 ## Setup Environment
 
